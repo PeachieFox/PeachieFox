@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Bootstrap 5, Java, Django<br><br>👨‍💻 All of my projects are available at https://www.peachiefoxart.com/<br><br>📄 Know about my experiences https://www.linkedin.com/in/pascal-georges/
+🌱 I’m currently learning Bootstrap 5, Php, Javascript, Django<br><br>👨‍💻 All of my projects are available at https://www.peachiefoxart.com/<br><br>📄 Know about my experiences https://www.linkedin.com/in/pascal-georges/
 
 
 ## 🌐 Socials:
